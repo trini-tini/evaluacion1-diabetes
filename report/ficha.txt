@@ -1,0 +1,6 @@
+Comite de Calidad - Ficha de Seguimiento Post-Alta
+Analista: piasa
+Pacientes analizados: 69990
+Reingreso en <30 dias: 8.98%
+Reingresos capturados contactando al 20%: 37.10%
+Lift del modelo: 1.86

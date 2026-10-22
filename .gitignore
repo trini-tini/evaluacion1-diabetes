@@ -1,0 +1,23 @@
+# Datos y particiones: se descargan/generan con scripts/pipeline.sh (no se versionan)
+data/
+
+# Salidas intermedias que el pipeline genera en report/ (no se versionan)
+report/valores.env
+report/tablas.md
+report/tablas.csv
+
+# Archivos auxiliares de LaTeX
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.lof
+report/*.lot
+report/*.xdv
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+
+# Caches de vw y de Python
+*.cache
+__pycache__/
